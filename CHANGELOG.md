@@ -1,3 +1,15 @@
+# 7.8.5 - 2026-02-09
+
+fix: further optimize code variables pattern matching
+
+# 7.8.4 - 2026-02-09
+
+fix: do not pattern match long values in code variables
+
+# 7.8.3 - 2026-02-06
+
+fix: openAI input image sanitization
+
 # 7.8.2 - 2026-02-04
 
 fix(llma): fix prompts default url
